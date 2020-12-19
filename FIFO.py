@@ -7,6 +7,6 @@ print(naila)
 
 naila = [1,2]
 naila.append(3)
-naila.pop()
+naila.pop(0)
 
 print(naila)
